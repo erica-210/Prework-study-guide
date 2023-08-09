@@ -1,4 +1,4 @@
-# <UTSA Prework Study Guide>
+# UTSA Prework Study Guide
 
 ## Description
 
